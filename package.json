@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mhmoudkalaf/Tina/issues"
   },
-  "homepage": "https://github.com/mhmoudkalaf/Tina#readme"
+  "homepage": "https://github.com/mhmoudkalaf/Tina#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.5",
+    "tinacms": "^1.1.2"
+  }
 }
